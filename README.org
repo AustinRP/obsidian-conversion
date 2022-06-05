@@ -1,0 +1,5 @@
+#+title: My Obsidian to Org Conversion
+
+My script to automate conversion of my Obsidian vault to org-mode. It's highly unlikely that this would be useable for anyone else, even with significant tweaking, but who knows?
+
+Requires "Austin's Obsidian Vault.zip" in the same directory. Also requires [[https://github.com/zoni/obsidian-export][zoni/obsidian-export]]. I had cloned and built it on a NixOS machine, so the path of the binary is hardcoded in the script.
